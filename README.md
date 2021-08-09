@@ -8,6 +8,6 @@
 
 ## Things I learnt
 
-> Components
-> Props
+> Components  
+> Props  
 > Hooks
